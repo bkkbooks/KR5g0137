@@ -57,6 +57,7 @@ markers:
       ', id: KR5g0137_HFL_001-bkkkrnewl12}
   - {type: line-break, offset: 159, content: '', id: KR5g0137_HFL_001-001b02}
   - {type: punctuation, offset: 169, content: (, id: KR5g0137_HFL_001-bkkpn1}
+  - {type: voice, offset: 169, length: 4, name: note, id: n1}
   - {type: punctuation, offset: 171, content: /, id: KR5g0137_HFL_001-bkkpn2}
   - {type: punctuation, offset: 173, content: ), id: KR5g0137_HFL_001-bkkpn3}
   - {type: 'kr:newline', offset: 179, content: '
@@ -64,9 +65,11 @@ markers:
       ', id: KR5g0137_HFL_001-bkkkrnewl13}
   - {type: line-break, offset: 179, content: '', id: KR5g0137_HFL_001-001b03}
   - {type: punctuation, offset: 182, content: (, id: KR5g0137_HFL_001-bkkpn4}
+  - {type: voice, offset: 182, length: 4, name: note, id: n2}
   - {type: punctuation, offset: 184, content: /, id: KR5g0137_HFL_001-bkkpn5}
   - {type: punctuation, offset: 186, content: ), id: KR5g0137_HFL_001-bkkpn6}
   - {type: punctuation, offset: 195, content: (, id: KR5g0137_HFL_001-bkkpn7}
+  - {type: voice, offset: 195, length: 4, name: note, id: n3}
   - {type: punctuation, offset: 197, content: /, id: KR5g0137_HFL_001-bkkpn8}
   - {type: punctuation, offset: 199, content: ), id: KR5g0137_HFL_001-bkkpn9}
   - {type: 'kr:newline', offset: 200, content: '
@@ -74,6 +77,7 @@ markers:
       ', id: KR5g0137_HFL_001-bkkkrnewl14}
   - {type: line-break, offset: 200, content: '', id: KR5g0137_HFL_001-001b04}
   - {type: punctuation, offset: 208, content: (, id: KR5g0137_HFL_001-bkkpn10}
+  - {type: voice, offset: 208, length: 4, name: note, id: n4}
   - {type: punctuation, offset: 210, content: /, id: KR5g0137_HFL_001-bkkpn11}
   - {type: punctuation, offset: 212, content: ), id: KR5g0137_HFL_001-bkkpn12}
   - {type: 'kr:newline', offset: 219, content: '
@@ -1248,4 +1252,4 @@ markers:
 
       ', id: KR5g0137_HFL_001-bkkkrnewl285}
   back: []
-hash: sha256:6a0683de23a170806ff5fe3cf3c8832f39c88272af0aa098aa7b258a053955ae
+hash: sha256:765475bea843f18c635f8c35b6c4ee75e56c36a7f8f8fbd10e970f03b350143d
